@@ -1,0 +1,2 @@
+C:\Users\Zak\Documents\My Documents\School\20\round 2\Red Sea\repository\Red_Sea\Code\RedSeaGame\RedSea\RedSeaContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Red_Sea\Code\RedSeaGame\RedSea\RedSeaContent\obj\x86\Debug\RedSeaContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedSea", "RedSea\RedSea\RedSea.csproj", "{713AD03B-164A-4CCD-A25D-EEF5EFF71DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedSeaContent", "RedSea\RedSeaContent\RedSeaContent.contentproj", "{7DAB278F-0735-48D5-AFAD-A4175CA834BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farseer Physics 3.2 XNA", "RedSea\Farseer Physics Engine 3.2 XNA\Farseer Physics 3.2 XNA.csproj", "{0A850700-1ABB-4288-A391-6726B90EBEB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713AD03B-164A-4CCD-A25D-EEF5EFF71DF1}.Debug|x86.ActiveCfg = Debug|x86
+		{713AD03B-164A-4CCD-A25D-EEF5EFF71DF1}.Debug|x86.Build.0 = Debug|x86
+		{713AD03B-164A-4CCD-A25D-EEF5EFF71DF1}.Release|x86.ActiveCfg = Release|x86
+		{713AD03B-164A-4CCD-A25D-EEF5EFF71DF1}.Release|x86.Build.0 = Release|x86
+		{7DAB278F-0735-48D5-AFAD-A4175CA834BB}.Debug|x86.ActiveCfg = Debug|x86
+		{7DAB278F-0735-48D5-AFAD-A4175CA834BB}.Release|x86.ActiveCfg = Release|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Debug|x86.ActiveCfg = Debug|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Debug|x86.Build.0 = Debug|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Release|x86.ActiveCfg = Release|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
